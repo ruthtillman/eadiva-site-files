@@ -1,7 +1,7 @@
 ## About the EADiva Site Files
 
 Author: Ruth Kitchin Tillman<br/> 
-Repo creation date: 2023-02-13</br>
+Repo creation date: 2023-02-13<br/>
 Last edit date: 2023-02-15
 
 These are the EADiva.com site files. I've created this repository as a kind of "succession plan lite." It exists on the offchance that I become both unable to maintain the site and unable to work with someone else to keep it up.
