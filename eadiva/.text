@@ -1,0 +1,53 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTPS} !=on [NC]
+RewriteRule ^(.*)$ https://eadiva.com/$1 [R=301,L]
+</IfModule>
+
+Redirect 301 "/2002" "/2"
+
+Redirect 301 "/c02" "/c01"
+Redirect 301 "/c03" "/c01"
+Redirect 301 "/c04" "/c01"
+Redirect 301 "/c05" "/c01"
+Redirect 301 "/c06" "/c01"
+Redirect 301 "/c07" "/c01"
+Redirect 301 "/c08" "/c01"
+Redirect 301 "/c09" "/c01"
+Redirect 301 "/c10" "/c01"
+Redirect 301 "/c11" "/c01"
+Redirect 301 "/c12" "/c01"
+
+Redirect 301 "/ead-samples-from-the-field" "/2/sample-ead2002-files/"
+
+Redirect 301 "/parallelphysdescset" "/physdescset"
+
+Redirect 301 "/convention-declaration" "/conventiondeclaration"
+
+Redirect 301 "/script-script" "/script"
+
+Redirect 301 "/unitdatestructured-structured-date-of-the-unit" "/unitdatestructured"
+
+Redirect 301 "/source-source" "source"
+
+Redirect 301 "/representation-representation" "/representation"
+
+Redirect 301 "/other-agency-code" "/otheragencycode"
+
+Redirect 301 "/local-type-declaration" "/localtypedeclaration"
+
+Redirect 301 "/language-declaration" "/languagedeclaration" 
+
+Redirect 301 "/event-type" "/eventtype"
+
+Redirect 301 "/event-description" "/eventdescription"
+
+Redirect 301 "/ead-sample-natalie-babbitt-papers" "/ead-sample-the-natalie-babbitt-papers"
+
+Redirect 301 "/generic-descriptive-elements" "/restrictedgeneric-descriptive-elements"
+
+Redirect 301 "/bibref-bibliographic-reference" "/bibref"
+
+Redirect 301 "/extptr-extended-pointer" "/extptr"
+
+Redirect 301 "/3-1-8-unitdate-date-of-a-unit" "/unitdate"

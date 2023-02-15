@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead SYSTEM "file:/S:/LibraryArchives/archives/Finding%20Aids%20EAD/DTD/ead2002.dtd">
+<ead audience="external" id="berlinerfamilymss297">
+<eadheader audience="internal" langencoding="iso639-2b" scriptencoding="iso15924"
+    relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1"
+    dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="QQS" identifier="US-QQS-mss297"
+      encodinganalog="dc.identifier"
+      >US-QQS-mss297
+    </eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="dc.title">Guide to the Berliner Family Papers,
+          <date>1878-1967</date>
+        </titleproper>
+        <author encodinganalog="dc.creator">The guide to this collection was written by
+         Matt Strauss. </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="dc.publisher">Rauh Jewish Archives</publisher>
+        <publisher encodinganalog="dc.publisher">Senator John Heinz History Center</publisher>
+        <address>
+          <addressline>Senator John Heinz History Center</addressline>
+          <addressline>1212 Smallman Street</addressline>
+          <addressline>Pittsburgh, PA 15222</addressline>
+        </address>
+        <date encodinganalog="dc.date" normal="2009-02">February 2009</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded by Matt Strauss on <date type="encoded" normal="2009-01-20"
+          >January 20, 2009</date> from an existing finding aid. </creation>
+      <langusage>
+        <language encodinganalog="dc.language" langcode="eng" scriptcode="latn">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date type="revision" normal="2009-01-20">January 20, 2009</date>
+        <item>
+          To accommodate the acquisition of Acc# 2008.0072, the description and arrangement of the collection was revised in January 2009 by Matt Strauss. In light of the second accession, which consisted of personal material from the Berliner family as well business records from their two other family businesses, the name of the collection of was changed from the Corry Hide and Fur Company Records to the Berliner Family Papers.   
+        </item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did>
+      <origination label="creator">Berliner Family</origination>
+      <unittitle encodinganalog="245$a" label="collection">The Berliner Family Papers <unitdate
+          encodinganalog="245$f" label="collection" type="inclusive" normal="1878/1967"
+          >1878-1967</unitdate>
+      </unittitle>
+      <physdesc label="collection">
+        <extent unit="linear feet" encodinganalog="300"
+          >4
+        </extent>(5 boxes) </physdesc>
+      <abstract encodinganalog="520">
+        In 1866, Meyer Berliner, a Jewish tradesman, and his family moved from Wellsville, New York, to Corry, Pennsylvania.  The family would become prominent residents of Corry, with three generations operating several different businesses in the town between the 1880s and 1920s.  This collection consists of material primarily from the Corry Hide and Fur Company and the Berliner Company, both mail-order hide and fur companies, and the personal correspondence of Lawrence Berliner, a grandson of Meyer Berliner.  Through business and personal correspondence, receipts and invoices, market reports, and promotional material, this collection documents the companies’ day-to-day operations as well as the activities of the Berliner family.  
+      </abstract>
+      <repository encodinganalog="852">
+        <corpname>Rauh Jewish Archives</corpname>
+        <corpname>Senator John Heinz History Center</corpname>
+        <address>
+          <addressline>1212 Smallman Street</addressline>
+          <addressline>Pittsburgh, PA 15222</addressline>
+        </address>
+        </repository>
+      <unitid type="collection" countrycode="US" repositorycode="QQS">MSS#297</unitid>
+      <langmaterial encodinganalog="546"> The material in this collection is in <language
+          langcode="eng">English</language>. </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>History</head>
+      <p>In 1866, Meyer Berliner, a Jewish tradesman, and his family moved from Wellsville, New York, to Corry, Pennsylvania.  Along with his son, Jacob, Meyer started a tallow rendering business, M. Berliner &amp; Co., in the late 1880s, which would only last five years before failing.  Meyer and Jacob were also organizers of the Ahaveth Sholem Lodge, no.160 Independent Order of B’nai Brith in Corry.     </p>
+      <p>In 1900, five years after the death of Meyer, Jacob and his two sons, Lawrence and Manfred J., launched the Corry Hide and Fur Company, a mail-order hide and fur business with offices located on West Main Street in Corry. The company purchased a variety of furs, skins, and hides from trappers located across North America, often selling the material through representatives based in London and Leipzig, Germany.  The company also sold scent lures for trapping, tallow, beeswax, and a guide for trapping.  During the summer, when the quality of fur decreased, the company would buy ginseng root from trappers, which would be sold for its medicinal value in Asia.</p>
+      <p>By 1912, the company was thriving, with a larger warehouse and a force of 15 employees responsible for sending out pricelists and answering correspondence. In January of that year, the company made headlines in a local paper when it sold a silver grey fox skin to a Russian Grand Duchess. During World War I, prices for hides and skins increased, as the demand for leather in Europe grew.  The market for furs was more unstable, as the market in Leipzig was shutdown and spending on luxury items decreased.   </p>
+      <p>In 1914, the brothers started the Berliner Leather Company (shortly thereafter known as the Berliner Company), which they billed as the “successors to the Corry Hide and Fur Company,” though for a number of years the two companies seemed to run concurrently.  Following the death of Manfred J. Berliner in 1924 at age 43, Lawrence moved with his mother, Emily, to New York City.   At some point, Celia and Manfred Jacob Berliner, the wife and son of his late brother, would also relocate to New York City. The Berliner Company’s operations slowed considerably following the move. However, Lawrence Berliner remained active in the industry, becoming a member of the New York Hide Exchange. In the 1930s, Berliner returned to Corry before relocating to Florida with Celia and Manfred Jacob Berliner in the 1940s.</p>
+      <p>In addition to the family businesses, Lawrence Berliner worked occasionally as a freelance journalist, providing news about Corry and the entertainment industry for a several publications.  </p>
+      <p>Lawrence Berliner passed away on June 29, 1969.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Content Notes</head>
+      <p>The records of the Corry Hide and Fur Company are housed in five archival boxes and are arranged in two series.  The first series contains business records, consisting mainly of correspondence and invoices, of three Berliner family businesses: M. Berliner and Co. (c.1888-1893), The Corry Hide and Fur Company (c.1900-c.1916), and the Berliner Company (1916-c.1929).  Also included in this series are market reports and promotional material from the Corry Hide and Fur Company, auction catalogs from several London auction houses, and market reports published by other companies in the industry. The materials in this series illuminate the day-to-day activities of the Corry Hide and Fur Company/Berliner Company as well as the early 20th century fur and hide industry. </p>
+      <p>The second series houses personal material from the Berliner family.  Consisting mainly of correspondence sent to Lawrence, this series also holds records pertaining to his father Jacob, mother Emily, brother Manfred J., uncle William, nephew Manfred Jacob, and sister-in-law Celia Levene Berliner. </p>
+      <p><emph render="bold">Series I:  Berliner Family Business Records, 1888-1947 </emph></p>
+      <p>The bulk of the material in this series consists of correspondence between the Corry Hide and Fur Company/Berliner Company and its trading partners, which included individual trappers, tanneries, other hide and fur businesses. There is also correspondence originating from financial institutions, railroads and newspaper publishers.  The correspondence is mostly incoming mail, though there is a small amount of letters originating from the company as well.  The correspondence pertains to customer orders (including a number of disagreements over the quality or price of goods), the prices and availability of materials, advertisements placed in publications, and disputes with railroad companies over damaged shipments and overcharges.  Some letters that were sent to traders were returned with handwritten responses on the back, providing a glimpse into the interaction between the Berliners and their customers. Additional corporate material includes circulars and copies of advertisements containing pricing information, testimonials, and shipping instructions.  Also included in this series are price lists, receipts and invoices, canceled checks, market reports, and auction catalogs that document the fluctuations in the fur and hide market during this time. </p>
+      <p><emph render="bold">Series II: Berliner Family Papers, 1871-1967</emph></p>
+      <p>This series contains correspondence, receipts, and ephemera from the Berliner family. The bulk of the series consists of correspondence addressed to Lawrence Berliner.  The letters concern business activities not officially conducted by Corry Hide and Fur Company or Berliner Company, rental properties owned by Berliner, information regarding stocks, travel arrangements, and numerous complaints made against railroads and other various companies.  Some of the correspondence is from periodicals, such as Variety, The Cleveland Plains Dealer, and The Jamestown Morning Post and concerns freelance reporting jobs that Lawrence Berliner undertook, usually covering entertainment news and activities in the Corry area.  There is also some correspondence received from family members, including his brother Manfred and his uncle David Taylor of New York. Because the Corry Hide and Fur Company and Berliner Company were family-run businesses, some of what has been classified as personal correspondence also contains information about the family businesses.  In particular, letters from Lawrence’s older brother Manfred contain specific instructions to be followed when one was away from the other.  These letters also contain candid observation about other businessmen in the industry. </p>
+      <p>There are much smaller groups of correspondence connected to the other members of the Berliner family.  Manfred J. Berliner’s correspondence includes letters from the early car manufacturers Petrel Motor Car and Imperial Automobiles.  The correspondence of Emily Berliner (née Taylor) , the only other sizeable subgroup of family correspondence in the collection, includes letters from members of the Taylor family. </p>
+      <p>Among the assorted family documents is an 1875 deed ascribed to Rosalie Berliner and an 1899 summons for William Berliner. Also in the collection is a series of military press releases documenting events in the final months of the Pacific Theater of World War II, though their connection to the creators of the collection remains unclear. </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Controlled Access Terms</head>
+      <controlaccess>
+        <head>Personal Names</head>
+        <persname source="lcnaf" encodinganalog="600">Berliner, Lawrence</persname>
+        <persname source="lcnaf" encodinganalog="600">Berliner, Manfred</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Corporate Names</head>
+        <corpname source="lcnaf" encodinganalog="610">M. Berliner and Co. (Corry, Pa.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">The Corry Hide and Fur Company  (Corry, Pa.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">The Berliner Company  (Corry, Pa.)</corpname>
+        </controlaccess>
+      <controlaccess>
+        <head>Topics</head>
+        <subject source="lcsh" encodinganalog="650">	Jewish businesspeople--Pennsylvania--History--Sources</subject>
+        <subject source="lcsh" encodinganalog="650">	Jews--Pennsylvania--Pittsburgh</subject>
+        <subject source="lcsh" encodinganalog="650">Fur trade--North America--History--20th century</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Locations</head>
+        <geogname source="lcsh" encodinganalog="651">Corry (Pa.)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Erie County (Pa.)</geogname>
+      </controlaccess>
+    </controlaccess>
+    <accessrestrict encodinganalog="506">
+      <p>No Restrictions.</p>
+    </accessrestrict>
+    <acqinfo encodinganalog="541">
+      <p>Received in two accessions:</p>
+      <p>Acc# 1996.190; Purchased from the Charles Apfelbaum Company on <date type="acquisition" normal="1996-06-12"
+          >June 12, 1996</date>. </p>
+      <p>Acc# 2008.0072; Donated by the Queens Library in <date type="acquisition" normal="2008-02"
+        >February, 2008</date>.</p>
+    </acqinfo>
+    <prefercite encodinganalog="524">
+      <p>The Berliner Family Papers, 1878-1967, MSS#297, Rauh Jewish Archives, Senator John Heinz History Center   </p>
+    </prefercite>
+    <processinfo encodinganalog="583">
+      <p>Original processing by Karen A. Duvall in April of 1999. To accommodate the acquisition of Acc# 2008.0072, the description and arrangement of the collection was revised in
+        <date type="processed" normal="2009-01">January 2009</date> by <name role="processor">Matt Strauss</name>. In light of the second accession, which consisted of personal material from the Berliner family as well business records from their two other family businesses, the name of the collection of was changed from the Corry Hide and Fur Company Records to the Berliner Family Papers.   </p>
+    </processinfo>
+    <userestrict encodinganalog="540">
+      <p>Property rights reside with the Senator John Heinz History Center.  Literary rights are retained by the creators of the records and their heirs.  For permission to reproduce or publish, please contact the Library and Archives of the Senator John Heinz History Center. </p>
+    </userestrict>
+    <relatedmaterial encodinganalog="544">
+      <head>Related Materials</head>
+      <p>There are photocopies of articles pertaining to the Berliners, which appeared in the <emph render="italic">Corry Evening Journal</emph> between 1906 and 1972, in the Corry Hide and Fur Co. vertical file (Western PA—Erie County—Corry—Corry Hide and Fur Co.).  Additional information about the Berliner family and the Corry Hide and Fur Company can be found at the Erie County Historical Society and the Corry Area Historical Society of Pennsylvania.</p>
+    </relatedmaterial>
+    <separatedmaterial encodinganalog="544">
+      <head>Separated Materials</head>
+      <p>One folder of several copies of market report newsletters from the Berliner Company have been separated and described as MSO#297.</p>
+    </separatedmaterial>
+
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid type="series" encodinganalog="050">I:</unitid>
+          <unittitle>Business Records<unitdate>1888-1947</unitdate>
+          </unittitle>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>The bulk of the material in this series consists of correspondence between the Corry Hide and Fur Company/Berliner Company and its trading partners, which included individual trappers, tanneries, other hide and fur businesses. There is also correspondence originating from financial institutions, railroads and newspaper publishers.  The correspondence is mostly incoming mail, though there is a small amount of letters originating from the company as well.  The correspondence pertains to customer orders (including a number of disagreements over the quality or price of goods), the prices and availability of materials, advertisements placed in publications, and disputes with railroad companies over damaged shipments and overcharges.  Some letters that were sent to traders were returned with handwritten responses on the back, providing a glimpse into the interaction between the Berliners and their customers. Additional corporate material includes circulars and copies of advertisements containing pricing information, testimonials, and shipping instructions.  Also included in this series are price lists, receipts and invoices, canceled checks, market reports, and auction catalogs that document the fluctuations in the fur and hide market during this time. </p>
+        </scopecontent>
+      <c02 level="otherlevel">
+        <did><unittitle>M. Berliner and Co.</unittitle></did>
+        <c03 level="file">
+          <did>
+            <container type="Box" id="mss297.b1">1</container>
+            <container type="Folder" parent="mss297.b1">1</container>
+            <unittitle>Correspondence<unitdate>1888-1893</unitdate></unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Folder" parent="mss297.b1">2</container>
+            <unittitle>Receipts<unitdate>1888-1893</unitdate></unittitle>
+          </did>
+        </c03>
+      </c02>
+        <c02 level="otherlevel">
+          <did><unittitle>Corry Hide and Fur Company </unittitle></did>
+          <c03 level="otherlevel">
+            <did><unittitle>Correspondence</unittitle></did>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">3</container>
+                <unittitle><unitdate>1888-1893</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">4</container>
+                <unittitle><unitdate>1908-1909</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">5</container>
+                <unittitle><unitdate>1910-1911</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">6</container>
+                <unittitle><unitdate>1912</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">7</container>
+                <unittitle><unitdate>1912</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">8-10</container>
+                <unittitle><unitdate>1913</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">11-12</container>
+                <unittitle><unitdate>1914</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">13-14</container>
+                <unittitle><unitdate>1915</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">15-16</container>
+                <unittitle><unitdate>1916</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">17</container>
+                <unittitle><unitdate>1917-1924</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b1">18</container>
+                <unittitle><unitdate>undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="otherlevel">
+            <did><unittitle>Invoices</unittitle></did>
+            <c04 level="file">
+              <did>
+                <container type="Volume" parent="mss297.b1">1</container>
+                <unittitle>Invoice ledger "A"	<unitdate>1907</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Volume" parent="mss297.b1">2</container>
+                <unittitle>Invoice ledger "B"	<unitdate>1907-1908</unitdate></unittitle>
+              </did>
+            </c04> 
+            <c04 level="file">
+              <did>
+                <container type="Box" id="mss297.b2">2</container>
+                <container type="Folder" parent="mss297.b2">1</container>
+                <unittitle><unitdate>1913-1916</unitdate></unittitle>
+              </did>
+            </c04> 
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b2">2</container>
+                <unittitle><unitdate>1916</unitdate></unittitle>
+              </did>
+            </c04> 
+</c03>
+<c03 level="otherlevel">
+<did><unittitle>Receipts</unittitle></did>
+<c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b2">3-5</container>
+                <unittitle><unitdate>1903-1916</unitdate></unittitle>
+              </did>
+</c04> 
+  <c04 level="file">
+    <did>
+      <container type="Folder" parent="mss297.b2">6</container>
+      <unittitle>Pricelists<unitdate>nd</unitdate></unittitle>
+    </did>
+  </c04> 
+  <c04 level="file">
+    <did>
+      <container type="Folder" parent="mss297.b2">7</container>
+      <unittitle>Promotional materials<unitdate>nd</unitdate></unittitle>
+    </did>
+  </c04> 
+  <c04 level="file">
+    <did>
+      <container type="Folder" parent="mss297.b2">8</container>
+      <unittitle>Freight Bills<unitdate>1907-1908</unitdate></unittitle>
+    </did>
+  </c04> 
+          </c03>
+        </c02>    
+   <c02 level="otherlevel">
+     <did><unittitle>The Berliner Company</unittitle></did>
+    <c03 level="otherlevel">
+      <did><unittitle>Correspondence</unittitle></did>
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">9-10</container>
+          <unittitle><unitdate>1914-1916</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">11-12</container>
+          <unittitle><unitdate>1917</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">13-15</container>
+          <unittitle><unitdate>1918</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">16-17</container>
+          <unittitle><unitdate>1919</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">18-19</container>
+          <unittitle><unitdate>1920</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">20</container>
+          <unittitle><unitdate>1921</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">21-22</container>
+          <unittitle><unitdate>1922-1924</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Folder" parent="mss297.b2">23</container>
+          <unittitle><unitdate>1925-1929</unitdate></unittitle>
+        </did>
+      </c04> 
+      <c04 level="file">
+        <did>
+          <container type="Box" id="mss297.b3">3</container>
+          <container type="Folder" parent="mss297.b3">1</container>
+          <unittitle><unitdate>undated</unitdate></unittitle>
+        </did>
+      </c04> 
+    </c03>
+     <c03 level="file">
+       <did>
+         <container type="Folder" parent="mss297.b3">2-3</container>
+         <unittitle><unitdate>1917-1929</unitdate></unittitle>
+       </did>
+     </c03> 
+     <c03 level="file">
+       <did>
+         <container type="Folder" parent="mss297.b3">4</container>
+         <unittitle>Overcharge/damage against railroads<unitdate>1917-1926</unitdate></unittitle>
+       </did>
+     </c03> 
+     <c03 level="file">
+       <did>
+         <container type="Folder" parent="mss297.b3">5</container>
+         <unittitle>Account Books<unitdate>1902-1920</unitdate></unittitle>
+       </did>
+     </c03> 
+     <c03 level="file">
+       <did>
+         <container type="Folder" parent="mss297.b3">6-8</container>
+         <unittitle>Canceled Checks<unitdate>1886-1930</unitdate></unittitle>
+       </did>
+     </c03> 
+     <c03 level="otherlevel">
+       <did><unittitle>Ledgers</unittitle></did>
+       <c04 level="file">
+         <did>
+           <container type="Volume" parent="mss297.b3">3</container>
+           <unittitle>Oil Creek Tannery<unitdate>1892-1899</unitdate></unittitle>
+         </did>
+       </c04> 
+       <c04 level="file">
+         <did>
+           <container type="Folder" parent="mss297.b3">9</container>
+           <unittitle><unitdate>1926-1932</unitdate></unittitle>
+         </did>
+       </c04>
+     </c03>
+   </c02>   
+        <c02 level="otherlevel">
+          <did><unittitle>Fur Industry </unittitle></did>
+          <c03 level="otherlevel">
+            <did><unittitle>Auction catalogs</unittitle></did>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b3">10</container>
+                <unittitle>A. and W. Nesbitt<unitdate>1915</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did><unittitle>Fred K. Huth &amp; Company</unittitle></did>
+              <c05 level="file">
+                <did>
+                  <container type="Folder" parent="mss297.b3">11</container>
+                  <unittitle><unitdate>1915-1917</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 level="file">
+                <did>
+                  <container type="Folder" parent="mss297.b3">12</container>
+                  <unittitle><unitdate>1918</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 level="file">
+                <did>
+                  <container type="Folder" parent="mss297.b3">13</container>
+                  <unittitle><unitdate>1919</unitdate></unittitle>
+                </did>
+              </c05>
+              </c04>
+              <c04 level="file">
+                <did>
+                  <container type="Folder" parent="mss297.b3">13</container>
+                  <unittitle>C.M. Lampson &amp; Company<unitdate>1915-1919</unitdate></unittitle>
+                </did>
+              </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b3">13</container>
+                <unittitle>Unknown auction catalog<unitdate>nd</unitdate></unittitle>
+              </did>
+            </c04>
+            </c03>
+            <c03 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b3">16</container>
+                <unittitle>Auction reports<unitdate>1914-1919</unitdate></unittitle>
+              </did>
+            </c03> 
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b3">17</container>
+              <unittitle>Market Reports<unitdate>1912-1932</unitdate></unittitle>
+            </did>
+          </c03> 
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b3">18</container>
+              <unittitle>New York Hide Exchange Market Reports<unitdate>1929-1931</unitdate></unittitle>
+            </did>
+          </c03> 
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b3">19</container>
+              <unittitle>Pamphlets and circulars<unitdate>1902-1947</unitdate></unittitle>
+            </did>
+          </c03> 
+        </c02>    
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid type="series" encodinganalog="050">II:</unitid>
+          <unittitle>Berliner Family Papers<unitdate>1871-1967</unitdate>
+          </unittitle>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>This series contains correspondence, receipts, and ephemera from the Berliner family. The bulk of the series consists of correspondence addressed to Lawrence Berliner.  The letters concern business activities not officially conducted by Corry Hide and Fur Company or Berliner Company, rental properties owned by Berliner, information regarding stocks, travel arrangements, and numerous complaints made against railroads and other various companies.  Some of the correspondence is from periodicals, such as Variety, The Cleveland Plains Dealer, and The Jamestown Morning Post and concerns freelance reporting jobs that Lawrence Berliner undertook, usually covering entertainment news and activities in the Corry area.  There is also some correspondence received from family members, including his brother Manfred and his uncle David Taylor of New York. Because the Corry Hide and Fur Company and Berliner Company were family-run businesses, some of what has been classified as personal correspondence also contains information about the family businesses.  In particular, letters from Lawrence’s older brother Manfred contain specific instructions to be followed when one was away from the other.  These letters also contain candid observation about other businessmen in the industry. </p>
+          <p>There are much smaller groups of correspondence connected to the other members of the Berliner family.  Manfred J. Berliner’s correspondence includes letters from the early car manufacturers Petrel Motor Car and Imperial Automobiles.  The correspondence of Emily Berliner (née Taylor) , the only other sizeable subgroup of family correspondence in the collection, includes letters from members of the Taylor family. </p>
+          <p>Among the assorted family documents is an 1875 deed ascribed to Rosalie Berliner and an 1899 summons for William Berliner. Also in the collection is a series of military press releases documenting events in the final months of the Pacific Theater of World War II, though their connection to the creators of the collection remains unclear. </p>
+        </scopecontent>
+        <c02 level="otherlevel">
+          <did><unittitle>Lawrence Berliner</unittitle></did>
+          <c03 level="otherlevel">
+            <did><unittitle>Correspondence</unittitle></did>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b3">20</container>
+                <unittitle><unitdate>1897-1919</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Box" id="mss297.b4">4</container>
+                <container type="Folder" parent="mss297.b4">1-2</container>
+                <unittitle><unitdate>1920-1929</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">3-4</container>
+                <unittitle><unitdate>1930-1949</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">5</container>
+                <unittitle><unitdate>1950-1967</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">6</container>
+                <unittitle><unitdate>undated</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">7</container>
+                <unittitle>Miscellaneous Papers<unitdate>1918-1966</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">8</container>
+                <unittitle>Receipts<unitdate>1910-1946</unitdate></unittitle>
+              </did>
+            </c04>  
+          </c03>
+        </c02>
+        <c02 level="otherlevel">
+          <did><unittitle>Manfred J. Berliner</unittitle></did>
+          <c03 level="otherlevel">
+            <did><unittitle>Correspondence</unittitle></did>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b4">9</container>
+                <unittitle><unitdate>1892-1915</unitdate></unittitle>
+              </did>
+            </c04>  
+            <c04 level="file">
+              <did>
+                <container type="Box" id="mss297.b5">5</container>
+                <container type="Folder" parent="mss297.b5">1</container>
+                <unittitle><unitdate>1916-1922</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="otherlevel">
+            <did><unittitle>Family Correspondence </unittitle></did>
+ <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">2</container>
+                <unittitle>Celia Berliner<unitdate>1936-1947</unitdate></unittitle>
+              </did>
+ </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">3</container>
+                <unittitle>Emily Berliner<unitdate>1907-1931</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">4</container>
+                <unittitle>Jacob Berliner <unitdate>1892-1924</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">5</container>
+                <unittitle>Manfred Jacob Berliner<unitdate>1930-1960</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">6</container>
+                <unittitle>William Berliner<unitdate>1896-1921</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder" parent="mss297.b5">7</container>
+                <unittitle>Unidentified<unitdate>1893-1940</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b5">8</container>
+              <unittitle>Miscellaneous Berliner family documents<unitdate>1891-1903</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b5">9</container>
+              <unittitle>Miscellaneous papers<unitdate>1878-1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b5">10</container>
+              <unittitle>Pamphlets<unitdate>1898-1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b5">11</container>
+              <unittitle>Press releases from CINCPOA (Commander-In-Chief, 
+                Pacific Ocean Area)	
+                <unitdate>1945</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder" parent="mss297.b5">12</container>
+              <unittitle>Receipts	
+                <unitdate>1871-1886</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+ </archdesc>
+</ead>
